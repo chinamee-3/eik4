@@ -450,3 +450,1785 @@
     },
     {
       "id": "f065",
+      "question": "Sarah will (    ) from high school next year.",
+      "choices": ["graduate", "discover", "remember", "prepare"],
+      "answer": "graduate",
+      "source_id": 45
+    },
+    {
+      "id": "f066",
+      "question": "Tom and Lisa like to help (    ) with their homework.",
+      "choices": ["too much", "even though", "by heart", "each other"],
+      "answer": "each other",
+      "source_id": 45
+    },
+    {
+      "id": "f067",
+      "question": "If you have a toothache, you should see a (    ) as soon as possible.",
+      "choices": ["bank", "village", "dentist", "restaurant"],
+      "answer": "dentist",
+      "source_id": 45
+    },
+    {
+      "id": "f068",
+      "question": "We promised to keep (    ) touch and meet up at least once a year.",
+      "choices": ["in", "about", "by", "also"],
+      "answer": "in",
+      "source_id": 45
+    },
+    {
+      "id": "f069",
+      "question": "The elephant is (    ) than the lion in the zoo.",
+      "choices": ["biggest", "much bigger", "too big", "big enough"],
+      "answer": "much bigger",
+      "source_id": 45
+    },
+    {
+      "id": "f070",
+      "question": "She borrowed a (    ) from the library to research for her school project.",
+      "choices": ["nothing", "clothes", "magazine", "planet"],
+      "answer": "magazine",
+      "source_id": 45
+    },
+    {
+      "id": "f071",
+      "question": "After a long day at work, I like to (    ) on the sofa and watch TV.",
+      "choices": ["hold", "rest", "die", "fail"],
+      "answer": "rest",
+      "source_id": 45
+    },
+    {
+      "id": "f072",
+      "question": "The math problems in the homework were quite (    ) for me to solve.",
+      "choices": ["glad", "useful", "wrong", "easy"],
+      "answer": "easy",
+      "source_id": 45
+    },
+    {
+      "id": "f073",
+      "question": "My mother was cooking dinner (    ) my father and I were watching TV.",
+      "choices": ["while", "through", "among", "once"],
+      "answer": "while",
+      "source_id": 48
+    },
+    {
+      "id": "f074",
+      "question": "Last weekend, I practiced playing the guitar to (    ) for the concert.",
+      "choices": ["borrow", "climb", "prepare", "introduce"],
+      "answer": "prepare",
+      "source_id": 48
+    },
+    {
+      "id": "f075",
+      "question": "A: I watched the soccer match on TV last night. B: Oh, I missed it. Who (    ) the game?",
+      "choices": ["win", "won", "winning", "wins"],
+      "answer": "won",
+      "source_id": 48
+    },
+    {
+      "id": "f076",
+      "question": "Yesterday, I (    ) my time drawing pictures because the weather was rainy",
+      "choices": ["bought", "spent", "forgot", "left"],
+      "answer": "spent",
+      "source_id": 48
+    },
+    {
+      "id": "f077",
+      "question": "At the market, I found vegetables (    ) sale and bought some for dinner.",
+      "choices": ["at", "in", "to", "on"],
+      "answer": "on",
+      "source_id": 48
+    },
+    {
+      "id": "f078",
+      "question": "In the photo, my little brother is standing (    ) our family with a big smile.",
+      "choices": ["behind", "above", "across", "under"],
+      "answer": "behind",
+      "source_id": 48
+    },
+    {
+      "id": "f079",
+      "question": "During the card game, I told a (    ) about the cards in my hand",
+      "choices": ["cold", "walk", "lie", "time"],
+      "answer": "lie",
+      "source_id": 48
+    },
+    {
+      "id": "f080",
+      "question": "I (    ) a call from my friend, and we talked for an hour about our plans.",
+      "choices": ["saved", "received", "seemed", "entered"],
+      "answer": "received",
+      "source_id": 48
+    },
+    {
+      "id": "f081",
+      "question": "Yesterday, I went to the new (    ) in town and bought a novel.",
+      "choices": ["bookstore", "dentist", "mountain", "factory"],
+      "answer": "bookstore",
+      "source_id": 48
+    },
+    {
+      "id": "f082",
+      "question": "My sister is taller than me, but I think I'm the (    ) runner in our family.",
+      "choices": ["faster", "too fast", "fastest", "fasting"],
+      "answer": "fastest",
+      "source_id": 48
+    },
+    {
+      "id": "f083",
+      "question": "The weather is nice. (    ) we take a walk in the park?",
+      "choices": ["Let's", "Don't", "Shall", "May"],
+      "answer": "Shall",
+      "source_id": 48
+    },
+    {
+      "id": "f084",
+      "question": "The city lights looked especially (    ) from the top of the hill at night.",
+      "choices": ["heavy", "pretty", "quiet", "bright"],
+      "answer": "pretty",
+      "source_id": 48
+    }
+  ],
+  "scramble": [
+    {
+      "id": "s001",
+      "question": "水を飲むことは体に良いです。(is/water/good/drinking / for) your health.",
+      "choices": [
+        "Drinking water is good for your health.",
+        "Is drinking water good for your health.",
+        "Good for your health is drinking water.",
+        "Water drinking is for your good health."
+      ],
+      "answer": "Drinking water is good for your health.",
+      "source_id": 2
+    },
+    {
+      "id": "s002",
+      "question": "お茶をもう少しいかがですか? (more/like/ you / would/some / tea)?",
+      "choices": [
+        "Would you like some more tea?",
+        "Would like you some more tea?",
+        "You would like some more tea?",
+        "Like you would some more tea?"
+      ],
+      "answer": "Would you like some more tea?",
+      "source_id": 2
+    },
+    {
+      "id": "s003",
+      "question": "窓を開けましょうか? (I/open/ the / shall/window)?",
+      "choices": [
+        "Shall I open the window?",
+        "I shall open the window?",
+        "Open I shall the window?",
+        "The window shall I open?"
+      ],
+      "answer": "Shall I open the window?",
+      "source_id": 2
+    },
+    {
+      "id": "s004",
+      "question": "ビルは人気のある俳優に似ています。Bill (like/popular/a/looks / actor).",
+      "choices": [
+        "Bill looks like a popular actor.",
+        "Bill like looks a popular actor.",
+        "A popular actor looks like Bill.",
+        "Bill looks a popular like actor."
+      ],
+      "answer": "Bill looks like a popular actor.",
+      "source_id": 2
+    },
+    {
+      "id": "s005",
+      "question": "ジェシーは彼女の妹を探しています。Jessy (is/her/looking/ for / sister).",
+      "choices": [
+        "Jessy is looking for her sister.",
+        "Jessy is for looking her sister.",
+        "Her sister is looking for Jessy.",
+        "Looking for her sister is Jessy."
+      ],
+      "answer": "Jessy is looking for her sister.",
+      "source_id": 2
+    },
+    {
+      "id": "s006",
+      "question": "あなたの電話番号を教えてください。Please (phone / tell / your / me / number).",
+      "choices": [
+        "Please tell me your phone number.",
+        "Please me tell your phone number.",
+        "Tell me please your phone number.",
+        "Please tell your me phone number."
+      ],
+      "answer": "Please tell me your phone number.",
+      "source_id": 2
+    },
+    {
+      "id": "s007",
+      "question": "明日英語を勉強する予定です。(study/I/going/to/am/ English) tomorrow.",
+      "choices": [
+        "I am going to study English tomorrow.",
+        "I am to going study English tomorrow.",
+        "Tomorrow I am going study to English.",
+        "English I am going to study tomorrow."
+      ],
+      "answer": "I am going to study English tomorrow.",
+      "source_id": 2
+    },
+    {
+      "id": "s008",
+      "question": "リサはショッピングを楽しむために新宿に行きました。Lisa (to/Shinjuku/enjoy/to/went) shopping.",
+      "choices": [
+        "Lisa went to Shinjuku to enjoy shopping.",
+        "Lisa went to enjoy to Shinjuku shopping.",
+        "To enjoy shopping, to Shinjuku Lisa went.",
+        "Lisa went to shopping to enjoy Shinjuku."
+      ],
+      "answer": "Lisa went to Shinjuku to enjoy shopping.",
+      "source_id": 2
+    },
+    {
+      "id": "s009",
+      "question": "先生が授業を始めると生徒たちは話すのをやめた。(stopped/ the / when / students / talking) the teacher started the class.",
+      "choices": [
+        "The students stopped talking when the teacher started the class.",
+        "When the teacher started the class, talking the students stopped.",
+        "The students talking stopped when the teacher started the class.",
+        "Stopped talking the students when the teacher started the class."
+      ],
+      "answer": "The students stopped talking when the teacher started the class.",
+      "source_id": 2
+    },
+    {
+      "id": "s010",
+      "question": "トムは泳ぐのが得意ではない。Tom (not/swimming/at/good/ is).",
+      "choices": [
+        "Tom is not good at swimming.",
+        "Tom is good at not swimming.",
+        "Not swimming is good at Tom.",
+        "Tom is at not good swimming."
+      ],
+      "answer": "Tom is not good at swimming.",
+      "source_id": 2
+    },
+    {
+      "id": "s011",
+      "question": "あなたのコンピューター使ってもよろしいでしょうか? (your/may/I/use/computer), please?",
+      "choices": [
+        "May I use your computer, please?",
+        "I may use your computer, please?",
+        "Please may I use your computer?",
+        "May use I your computer, please?"
+      ],
+      "answer": "May I use your computer, please?",
+      "source_id": 6
+    },
+    {
+      "id": "s012",
+      "question": "母の誕生日にいくつかケーキを作りました。I (cakes / some / for / made) my mum's birthday.",
+      "choices": [
+        "I made some cakes for my mum's birthday.",
+        "I some made cakes for my mum's birthday.",
+        "For my mum's birthday, I some cakes made.",
+        "I made for my mum's birthday some cakes."
+      ],
+      "answer": "I made some cakes for my mum's birthday.",
+      "source_id": 6
+    },
+    {
+      "id": "s013",
+      "question": "クラスで一番背の高い女の子は誰ですか? (in/girl/is/who/ tallest / the) your class?",
+      "choices": [
+        "Who is the tallest girl in your class?",
+        "Who the tallest girl is in your class?",
+        "Is who the tallest girl in your class?",
+        "The tallest girl in your class is who?"
+      ],
+      "answer": "Who is the tallest girl in your class?",
+      "source_id": 6
+    },
+    {
+      "id": "s014",
+      "question": "何か飲みものはいかがでしょうか? (something / drink / to / like / you / would )?",
+      "choices": [
+        "Would you like something to drink?",
+        "You would like something to drink?",
+        "Like you would something to drink?",
+        "Would you like to something drink?"
+      ],
+      "answer": "Would you like something to drink?",
+      "source_id": 6
+    },
+    {
+      "id": "s015",
+      "question": "アンディは毎日夕飯のあと、犬の散歩にでかけます。Andy (a/for/dog/my/walk / takes / after) dinner everyday.",
+      "choices": [
+        "Andy takes my dog for a walk after dinner everyday.",
+        "Andy takes for a walk my dog after dinner everyday.",
+        "Everyday Andy for a walk takes my dog after dinner.",
+        "Andy my dog takes for a walk after dinner everyday."
+      ],
+      "answer": "Andy takes my dog for a walk after dinner everyday.",
+      "source_id": 6
+    },
+    {
+      "id": "s016",
+      "question": "アリス、週末に買い物に行きませんか? (shopping/can/go/we/ this) weekend, Alice?",
+      "choices": [
+        "Can we go shopping this weekend, Alice?",
+        "We can go shopping this weekend, Alice?",
+        "Go shopping can we this weekend, Alice?",
+        "Can go we shopping this weekend, Alice?"
+      ],
+      "answer": "Can we go shopping this weekend, Alice?",
+      "source_id": 6
+    },
+    {
+      "id": "s017",
+      "question": "私の兄はスペイン語とフランス語どちらも知っています。My brother (French / Spanish / both / and / knows).",
+      "choices": [
+        "My brother knows both Spanish and French.",
+        "My brother knows Spanish both and French.",
+        "Both Spanish and French my brother knows.",
+        "My brother both knows Spanish and French."
+      ],
+      "answer": "My brother knows both Spanish and French.",
+      "source_id": 6
+    },
+    {
+      "id": "s018",
+      "question": "その写真を見せてもらえますか? Can you (show/me/ the / to / picture)?",
+      "choices": [
+        "Can you show the picture to me?",
+        "Can you show me to the picture?",
+        "Show me the picture can you to?",
+        "Can you the picture show to me?"
+      ],
+      "answer": "Can you show the picture to me?",
+      "source_id": 6
+    },
+    {
+      "id": "s019",
+      "question": "ジャックは来年バスケットボールのチームに参加する予定です。Jack (part / the / will / take / in) basketball team next year.",
+      "choices": [
+        "Jack will take part in the basketball team next year.",
+        "Jack will take in part the basketball team next year.",
+        "Next year Jack will take the part in basketball team.",
+        "Jack will part take in the basketball team next year."
+      ],
+      "answer": "Jack will take part in the basketball team next year.",
+      "source_id": 6
+    },
+    {
+      "id": "s020",
+      "question": "この映画はあの映画よりおもしろい。This movie is (one / more / interesting / that / than).",
+      "choices": [
+        "This movie is more interesting than that one.",
+        "This movie is interesting more than that one.",
+        "More interesting is this movie than that one.",
+        "This movie than that one is more interesting."
+      ],
+      "answer": "This movie is more interesting than that one.",
+      "source_id": 6
+    },
+    {
+      "id": "s021",
+      "question": "病気のため今日は授業を休む予定だ。(class/from/ I'll / absent / be) today due to illness.",
+      "choices": [
+        "I'll be absent from class today due to illness.",
+        "Absent from class I'll be today due to illness.",
+        "I'll be from class absent today due to illness.",
+        "Today I'll be absent from class due to illness."
+      ],
+      "answer": "I'll be absent from class today due to illness.",
+      "source_id": 10
+    },
+    {
+      "id": "s022",
+      "question": "ベンはテニス部に入っていますか? (member / a / the tennis club / of / is / Ben)?",
+      "choices": [
+        "Is Ben a member of the tennis club?",
+        "Ben is a member of the tennis club?",
+        "A member of the tennis club is Ben?",
+        "Is a member Ben of the tennis club?"
+      ],
+      "answer": "Is Ben a member of the tennis club?",
+      "source_id": 10
+    },
+    {
+      "id": "s023",
+      "question": "昨日英語を勉強するために本を買いました。I (bought / English / to / the book / study) yesterday.",
+      "choices": [
+        "I bought the book to study English yesterday.",
+        "I bought to study English the book yesterday.",
+        "Yesterday I to study English bought the book.",
+        "I the book bought to study English yesterday."
+      ],
+      "answer": "I bought the book to study English yesterday.",
+      "source_id": 10
+    },
+    {
+      "id": "s024",
+      "question": "銀行は図書館と美術館の間にあります。The bank (the museum / is / and / the library / between ).",
+      "choices": [
+        "The bank is between the library and the museum.",
+        "Between the library and the museum is the bank.",
+        "The bank is the library and between the museum.",
+        "The library is between the bank and the museum."
+      ],
+      "answer": "The bank is between the library and the museum.",
+      "source_id": 10
+    },
+    {
+      "id": "s025",
+      "question": "直美はいつも部屋をきれいにしています。Naomi (always / her / keeps / clean / room).",
+      "choices": [
+        "Naomi always keeps her room clean.",
+        "Naomi keeps always her room clean.",
+        "Her room Naomi always keeps clean.",
+        "Naomi always keeps clean her room."
+      ],
+      "answer": "Naomi always keeps her room clean.",
+      "source_id": 10
+    },
+    {
+      "id": "s026",
+      "question": "もし暇なら買い物に行きましょう。Let's (go / are / you / shopping / free / if).",
+      "choices": [
+        "Let's go shopping if you are free.",
+        "If you are free, go let's shopping.",
+        "Let's go if you are shopping free.",
+        "Go shopping let's if you are free."
+      ],
+      "answer": "Let's go shopping if you are free.",
+      "source_id": 10
+    },
+    {
+      "id": "s027",
+      "question": "彼は日本対スペインのサッカーの試合を明日見に行く He's going to see (Japan / and /the soccer game / between / Spain) tomorrow.",
+      "choices": [
+        "He's going to see the soccer game between Japan and Spain tomorrow.",
+        "He's going to see between Japan and Spain the soccer game tomorrow.",
+        "Tomorrow he's going to see the soccer game and between Japan Spain.",
+        "The soccer game between Japan and Spain he's going to see tomorrow."
+      ],
+      "answer": "He's going to see the soccer game between Japan and Spain tomorrow.",
+      "source_id": 10
+    },
+    {
+      "id": "s028",
+      "question": "京都タワーは東京タワーより高くありません。Kyoto Tower (not/than/taller / Tokyo Tower / is).",
+      "choices": [
+        "Kyoto Tower is not taller than Tokyo Tower.",
+        "Kyoto Tower is taller not than Tokyo Tower.",
+        "Not taller is Kyoto Tower than Tokyo Tower.",
+        "Than Tokyo Tower, Kyoto Tower is not taller."
+      ],
+      "answer": "Kyoto Tower is not taller than Tokyo Tower.",
+      "source_id": 10
+    },
+    {
+      "id": "s029",
+      "question": "私が家に帰った時、母はテレビを見ていました。My mother (home / when / TV/ watching / was / I / came).",
+      "choices": [
+        "My mother was watching TV when I came home.",
+        "When I came home, watching TV was my mother.",
+        "My mother was when I came home watching TV.",
+        "I came home when my mother was watching TV."
+      ],
+      "answer": "My mother was watching TV when I came home.",
+      "source_id": 10
+    },
+    {
+      "id": "s030",
+      "question": "野菜を食べるのに良いお店を探しています。I'm (eat/a/to/looking/good/for/place) vegetables.",
+      "choices": [
+        "I'm looking for a good place to eat vegetables.",
+        "I'm looking for to eat a good place vegetables.",
+        "A good place to eat vegetables I'm looking for.",
+        "I'm looking to for a good place eat vegetables."
+      ],
+      "answer": "I'm looking for a good place to eat vegetables.",
+      "source_id": 10
+    },
+    {
+      "id": "s031",
+      "question": "ごめん、今宿題を終わらせなきゃいけないの。Sorry, (have /my/I/homework / finish / to) today.",
+      "choices": [
+        "Sorry, I have to finish my homework today.",
+        "Sorry, I have finish to my homework today.",
+        "Today I have to finish my homework, sorry.",
+        "Sorry, my homework I have to finish today."
+      ],
+      "answer": "Sorry, I have to finish my homework today.",
+      "source_id": 15
+    },
+    {
+      "id": "s032",
+      "question": "兄は私より年上です。(than / older / brother / my / is / me).",
+      "choices": [
+        "My brother is older than me.",
+        "Older than me is my brother.",
+        "My brother than me is older.",
+        "Me is older than my brother."
+      ],
+      "answer": "My brother is older than me.",
+      "source_id": 15
+    },
+    {
+      "id": "s033",
+      "question": "姉のために誕生日ケーキをつくる予定です。I (for/my/sister / will / a birthday cake / bake).",
+      "choices": [
+        "I will bake a birthday cake for my sister.",
+        "I will bake for my sister a birthday cake.",
+        "A birthday cake I will bake for my sister.",
+        "For my sister, I will a birthday cake bake."
+      ],
+      "answer": "I will bake a birthday cake for my sister.",
+      "source_id": 15
+    },
+    {
+      "id": "s034",
+      "question": "お母さん、今お店に行く必要があるの? Mum, do (to/ the / we / go / need) store now?",
+      "choices": [
+        "Mum, do we need to go to the store now?",
+        "Mum, do we go to need the store now?",
+        "Do we need to go to the store now, Mum?",
+        "Mum, do need we to go to the store now?"
+      ],
+      "answer": "Mum, do we need to go to the store now?",
+      "source_id": 15
+    },
+    {
+      "id": "s035",
+      "question": "ナオミは今朝、泳いでいました。Naomi (was/ the / in / morning / swimming).",
+      "choices": [
+        "Naomi was swimming in the morning.",
+        "In the morning, swimming was Naomi.",
+        "Naomi was in the morning swimming.",
+        "Swimming in the morning was Naomi."
+      ],
+      "answer": "Naomi was swimming in the morning.",
+      "source_id": 15
+    },
+    {
+      "id": "s036",
+      "question": "もっと野菜を食べるべきです。(vegetables / eat / should / more / we).",
+      "choices": [
+        "We should eat more vegetables.",
+        "More vegetables we should eat.",
+        "We should more eat vegetables.",
+        "Eat more vegetables we should."
+      ],
+      "answer": "We should eat more vegetables.",
+      "source_id": 15
+    },
+    {
+      "id": "s037",
+      "question": "彼は彼女の宿題を手伝える。(her/help/can/with/he/homework).",
+      "choices": [
+        "He can help with her homework.",
+        "He can help her with homework.",
+        "With her homework, he can help.",
+        "He with her homework can help."
+      ],
+      "answer": "He can help her with homework.",
+      "source_id": 15
+    },
+    {
+      "id": "s038",
+      "question": "ジェニーは去年東京の友達に会いました。Jenny (visited / last year / her friends / Tokyo / in).",
+      "choices": [
+        "Jenny visited her friends in Tokyo last year.",
+        "Jenny visited in Tokyo her friends last year.",
+        "Last year Jenny visited her friends in Tokyo.",
+        "Jenny last year in Tokyo visited her friends."
+      ],
+      "answer": "Jenny visited her friends in Tokyo last year.",
+      "source_id": 15
+    },
+    {
+      "id": "s039",
+      "question": "この試験は今年一番むずかしい。(difficult / this / the exam / is / most / the ) year.",
+      "choices": [
+        "The exam is the most difficult this year.",
+        "This year the exam is the most difficult.",
+        "The most difficult exam is this year.",
+        "The exam this year is the most difficult."
+      ],
+      "answer": "The exam is the most difficult this year.",
+      "source_id": 15
+    },
+    {
+      "id": "s040",
+      "question": "前の携帯よりこの新しい携帯の方が高い。The new phone (old / expensive / is / than / the / one / more).",
+      "choices": [
+        "The new phone is more expensive than the old one.",
+        "The new phone is expensive more than the old one.",
+        "More expensive than the old one is the new phone.",
+        "The new phone than the old one is more expensive."
+      ],
+      "answer": "The new phone is more expensive than the old one.",
+      "source_id": 15
+    },
+    {
+      "id": "s041",
+      "question": "先月2、3回公園に行きました。We went (the park / a / times / couple / to / of) last month.",
+      "choices": [
+        "We went to the park a couple of times last month.",
+        "We went to a couple of times the park last month.",
+        "Last month we went to the park a couple of times.",
+        "A couple of times we went to the park last month."
+      ],
+      "answer": "We went to the park a couple of times last month.",
+      "source_id": 19
+    },
+    {
+      "id": "s042",
+      "question": "この山はあの山より高い。The mountain (higher / that / than / one / is).",
+      "choices": [
+        "The mountain is higher than that one.",
+        "Higher than that one is the mountain.",
+        "The mountain than that one is higher.",
+        "That one is higher than the mountain."
+      ],
+      "answer": "The mountain is higher than that one.",
+      "source_id": 19
+    },
+    {
+      "id": "s043",
+      "question": "あなたは妹と仲が良いですか? Do you (along / sister/get/ your / with)?",
+      "choices": [
+        "Do you get along with your sister?",
+        "Do you get with along your sister?",
+        "Get along with your sister do you?",
+        "With your sister do you get along?"
+      ],
+      "answer": "Do you get along with your sister?",
+      "source_id": 19
+    },
+    {
+      "id": "s044",
+      "question": "昨日は今日よりもっと寒かった。(yesterday / was / than / today / colder / much).",
+      "choices": [
+        "Yesterday was much colder than today.",
+        "Much colder than today was yesterday.",
+        "Yesterday was colder much than today.",
+        "Today was much colder than yesterday."
+      ],
+      "answer": "Yesterday was much colder than today.",
+      "source_id": 19
+    },
+    {
+      "id": "s045",
+      "question": "彼らは博物館とギャラリーどちらも行きました。They (the museum / the art gallery / visited / and / both).",
+      "choices": [
+        "They visited both the museum and the art gallery.",
+        "They visited the museum and both the art gallery.",
+        "Both the museum and the art gallery they visited.",
+        "They both visited the museum and the art gallery."
+      ],
+      "answer": "They visited both the museum and the art gallery.",
+      "source_id": 19
+    },
+    {
+      "id": "s046",
+      "question": "彼女はお気に入りの映画を見ているとき、いつも微笑んでいる。She (when / smiles / she / always / sees) her favorite movie.",
+      "choices": [
+        "She always smiles when she sees her favorite movie.",
+        "She smiles always when she sees her favorite movie.",
+        "When she sees her favorite movie, she smiles always.",
+        "Always she smiles when she sees her favorite movie."
+      ],
+      "answer": "She always smiles when she sees her favorite movie.",
+      "source_id": 19
+    },
+    {
+      "id": "s047",
+      "question": "将来のためにお金を節約することは重要です。(to/money/important / it's / save) for the future.",
+      "choices": [
+        "It's important to save money for the future.",
+        "To save money for the future is important.",
+        "Important it's to save money for the future.",
+        "It's to save money important for the future."
+      ],
+      "answer": "It's important to save money for the future.",
+      "source_id": 19
+    },
+    {
+      "id": "s048",
+      "question": "このクラスで一番背が高い人はジョンです。(in/person/ is / the / class / my / tallest) John.",
+      "choices": [
+        "The tallest person in my class is John.",
+        "John is the tallest person in my class.",
+        "In my class the tallest person is John.",
+        "The tallest person is John in my class."
+      ],
+      "answer": "The tallest person in my class is John.",
+      "source_id": 19
+    },
+    {
+      "id": "s049",
+      "question": "公園に行く途中でカフェに立ち寄りました。We stopped at a café (way / the / to / on / the / park).",
+      "choices": [
+        "We stopped at a café on the way to the park.",
+        "On the way to the park, we stopped at a café.",
+        "We stopped on the way to the park at a café.",
+        "At a café we stopped on the way to the park."
+      ],
+      "answer": "We stopped at a café on the way to the park.",
+      "source_id": 19
+    },
+    {
+      "id": "s050",
+      "question": "彼女は昨日、新しい子犬を隣人に紹介しました。She (her / puppy/to/new/introduced) the neighbors yesterday.",
+      "choices": [
+        "She introduced her new puppy to the neighbors yesterday.",
+        "She introduced to the neighbors her new puppy yesterday.",
+        "Yesterday she introduced her new puppy to the neighbors.",
+        "Her new puppy she introduced to the neighbors yesterday."
+      ],
+      "answer": "She introduced her new puppy to the neighbors yesterday.",
+      "source_id": 19
+    },
+    {
+      "id": "s051",
+      "question": "お塩を取ってもらえますか? (the salt / could / me / pass / you), please?",
+      "choices": [
+        "Could you pass me the salt, please?",
+        "Could you pass the salt to me, please?",
+        "Please could you pass me the salt?",
+        "You could pass me the salt, please?"
+      ],
+      "answer": "Could you pass me the salt, please?",
+      "source_id": 22
+    },
+    {
+      "id": "s052",
+      "question": "妹と私は週末ボードゲームを楽しみます。My sister (playing/I/and/ enjoy / board games) on weekends.",
+      "choices": [
+        "My sister and I enjoy playing board games on weekends.",
+        "I and my sister enjoy playing board games on weekends.",
+        "On weekends, my sister and I enjoy playing board games.",
+        "Playing board games enjoy my sister and I on weekends."
+      ],
+      "answer": "My sister and I enjoy playing board games on weekends.",
+      "source_id": 22
+    },
+    {
+      "id": "s053",
+      "question": "本屋で新しい本を買ったので、とても読むのが楽しみです。I (at / a new book / the bookstore / bought), and I'm excited to read it.",
+      "choices": [
+        "I bought a new book at the bookstore, and I'm excited to read it.",
+        "At the bookstore I bought a new book, and I'm excited to read it.",
+        "I bought at the bookstore a new book, and I'm excited to read it.",
+        "A new book I bought at the bookstore, and I'm excited to read it."
+      ],
+      "answer": "I bought a new book at the bookstore, and I'm excited to read it.",
+      "source_id": 22
+    },
+    {
+      "id": "s054",
+      "question": "冬は、雪だるまを作ったり雪の中遊ぶのが好きです。In winter, I (in / the snow/play/ like / to) and make a snowman.",
+      "choices": [
+        "In winter, I like to play in the snow and make a snowman.",
+        "I like to play in the snow and make a snowman in winter.",
+        "In the snow I like to play and make a snowman in winter.",
+        "To play in the snow and make a snowman I like in winter."
+      ],
+      "answer": "In winter, I like to play in the snow and make a snowman.",
+      "source_id": 22
+    },
+    {
+      "id": "s055",
+      "question": "私たちは家の前で家族写真を撮りました。We (of / a family photo / front/in/took) our house.",
+      "choices": [
+        "We took a family photo in front of our house.",
+        "In front of our house, we took a family photo.",
+        "A family photo we took in front of our house.",
+        "We took in front of our house a family photo."
+      ],
+      "answer": "We took a family photo in front of our house.",
+      "source_id": 22
+    },
+    {
+      "id": "s056",
+      "question": "私は動物と自然の絵を書くことが好きです。I like (animals / draw / to / of / pictures) and nature.",
+      "choices": [
+        "I like to draw pictures of animals and nature.",
+        "I like to draw animals and pictures of nature.",
+        "To draw pictures of animals and nature I like.",
+        "Pictures of animals and nature I like to draw."
+      ],
+      "answer": "I like to draw pictures of animals and nature.",
+      "source_id": 22
+    },
+    {
+      "id": "s057",
+      "question": "3時だ、チームミーティングの時間だね It's 3 o'clock, and (for / time / it's / our / team meeting).",
+      "choices": [
+        "It's 3 o'clock, and it's time for our team meeting.",
+        "It's 3 o'clock, and time for our team meeting it's.",
+        "And it's time for our team meeting, it's 3 o'clock.",
+        "For our team meeting it's time, and it's 3 o'clock."
+      ],
+      "answer": "It's 3 o'clock, and it's time for our team meeting.",
+      "source_id": 22
+    },
+    {
+      "id": "s058",
+      "question": "あなたは辛いものが好きですか? (spicy food / a fan / you / are / of )?",
+      "choices": [
+        "Are you a fan of spicy food?",
+        "You are a fan of spicy food?",
+        "A fan of spicy food are you?",
+        "Are a fan you of spicy food?"
+      ],
+      "answer": "Are you a fan of spicy food?",
+      "source_id": 22
+    },
+    {
+      "id": "s059",
+      "question": "気分が悪かったので、昨日は学校を休みました。I (absent / was/I/school/ from) yesterday because I wasn't feeling well.",
+      "choices": [
+        "I was absent from school yesterday because I wasn't feeling well.",
+        "Because I wasn't feeling well, I was absent from school yesterday.",
+        "Yesterday I was absent from school because I wasn't feeling well.",
+        "I was from school absent yesterday because I wasn't feeling well."
+      ],
+      "answer": "I was absent from school yesterday because I wasn't feeling well.",
+      "source_id": 22
+    },
+    {
+      "id": "s060",
+      "question": "どんな本を読むのが好きですか? What (you/do/kind / books / of) like to read for fun?",
+      "choices": [
+        "What kind of books do you like to read for fun?",
+        "What kind of books for fun do you like to read?",
+        "For fun what kind of books do you like to read?",
+        "Do you like to read what kind of books for fun?"
+      ],
+      "answer": "What kind of books do you like to read for fun?",
+      "source_id": 22
+    },
+    {
+      "id": "s061",
+      "question": "今日は学校に遅れたくないよ。I don't (for / late / want / be / to) school today.",
+      "choices": [
+        "I don't want to be late for school today.",
+        "I don't want to for be late school today.",
+        "Today I don't want to be late for school.",
+        "For school today I don't want to be late."
+      ],
+      "answer": "I don't want to be late for school today.",
+      "source_id": 28
+    },
+    {
+      "id": "s062",
+      "question": "外国の切手を集めることが私の趣味の一つです。(collecting / of /one/ is/ my hobbies) stamps from different countries.",
+      "choices": [
+        "One of my hobbies is collecting stamps from different countries.",
+        "Collecting stamps from different countries is one of my hobbies.",
+        "Is one of my hobbies collecting stamps from different countries.",
+        "One of collecting stamps is my hobbies from different countries."
+      ],
+      "answer": "One of my hobbies is collecting stamps from different countries.",
+      "source_id": 28
+    },
+    {
+      "id": "s063",
+      "question": "夕飯に母が美味しいトマトソースでスパゲッティを作ってくれた。For dinner, (a tasty tomato sauce / with / spaghetti / made / my mom).",
+      "choices": [
+        "For dinner, my mom made spaghetti with a tasty tomato sauce.",
+        "My mom made spaghetti with a tasty tomato sauce for dinner.",
+        "For dinner, with a tasty tomato sauce my mom made spaghetti.",
+        "Spaghetti with a tasty tomato sauce my mom made for dinner."
+      ],
+      "answer": "For dinner, my mom made spaghetti with a tasty tomato sauce.",
+      "source_id": 28
+    },
+    {
+      "id": "s064",
+      "question": "私のプロジェクトを手伝ってくれたので、先生にサンキューカードをあげた。I (a thank-you card/I/gave / for / my teacher) helping me with my project.",
+      "choices": [
+        "I gave my teacher a thank-you card for helping me with my project.",
+        "For helping me with my project, I gave my teacher a thank-you card.",
+        "I gave a thank-you card to my teacher for helping me with my project.",
+        "My teacher I gave a thank-you card for helping me with my project."
+      ],
+      "answer": "I gave my teacher a thank-you card for helping me with my project.",
+      "source_id": 28
+    },
+    {
+      "id": "s065",
+      "question": "僕の新しい友人、アレックスを紹介するよ。I'd (you/introduce / to / like / to) my new friend, Alex.",
+      "choices": [
+        "I'd like to introduce you to my new friend, Alex.",
+        "I'd like to introduce to you my new friend, Alex.",
+        "To my new friend, Alex, I'd like to introduce you.",
+        "I'd like you to introduce to my new friend, Alex."
+      ],
+      "answer": "I'd like to introduce you to my new friend, Alex.",
+      "source_id": 28
+    },
+    {
+      "id": "s066",
+      "question": "今晩、私たちと一緒に映画に行かない? (going to / are / with / you / come) us to the movies this evening?",
+      "choices": [
+        "Are you going to come with us to the movies this evening?",
+        "Are you going with us to come to the movies this evening?",
+        "To the movies this evening, are you going to come with us?",
+        "With us to the movies this evening are you going to come?"
+      ],
+      "answer": "Are you going to come with us to the movies this evening?",
+      "source_id": 28
+    },
+    {
+      "id": "s067",
+      "question": "雨が降っていたので、ピクニックを中止しなくてはいけませんでした It was raining, so (our picnic / to / had / we / cancel).",
+      "choices": [
+        "It was raining, so we had to cancel our picnic.",
+        "So we had to cancel our picnic, it was raining.",
+        "We had to cancel our picnic, so it was raining.",
+        "It was raining, we had so to cancel our picnic."
+      ],
+      "answer": "It was raining, so we had to cancel our picnic.",
+      "source_id": 28
+    },
+    {
+      "id": "s068",
+      "question": "夕方は犬と近所を散歩しています。In the evening, I (around / take / with / a walk / my dog) the neighborhood.",
+      "choices": [
+        "In the evening, I take a walk with my dog around the neighborhood.",
+        "I take a walk with my dog around the neighborhood in the evening.",
+        "Around the neighborhood, I take a walk with my dog in the evening.",
+        "In the evening, I take with my dog a walk around the neighborhood."
+      ],
+      "answer": "In the evening, I take a walk with my dog around the neighborhood.",
+      "source_id": 28
+    },
+    {
+      "id": "s069",
+      "question": "バックを持ちましょうか? (for/I/that bag / shall / carry) you?",
+      "choices": [
+        "Shall I carry that bag for you?",
+        "I shall carry that bag for you?",
+        "For you shall I carry that bag?",
+        "Carry that bag for you shall I?"
+      ],
+      "answer": "Shall I carry that bag for you?",
+      "source_id": 28
+    },
+    {
+      "id": "s070",
+      "question": "青いドレスは赤いドレスより安い。(is / the red one / than / cheaper / the blue dress).",
+      "choices": [
+        "The blue dress is cheaper than the red one.",
+        "Cheaper than the red one is the blue dress.",
+        "The blue dress than the red one is cheaper.",
+        "The red one is cheaper than the blue dress."
+      ],
+      "answer": "The blue dress is cheaper than the red one.",
+      "source_id": 28
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v001",
+      "question": "cry",
+      "choices": ["泣く", "呼ぶ", "去る", "壊す"],
+      "answer": "泣く",
+      "source_id": 178
+    },
+    {
+      "id": "v002",
+      "question": "call",
+      "choices": ["呼ぶ、電話する", "泣く", "去る", "壊す"],
+      "answer": "呼ぶ、電話する",
+      "source_id": 178
+    },
+    {
+      "id": "v003",
+      "question": "leave",
+      "choices": ["去る、出発する", "泣く", "呼ぶ", "壊す"],
+      "answer": "去る、出発する",
+      "source_id": 178
+    },
+    {
+      "id": "v004",
+      "question": "break",
+      "choices": ["壊す", "泣く", "呼ぶ", "去る"],
+      "answer": "壊す",
+      "source_id": 178
+    },
+    {
+      "id": "v005",
+      "question": "grow",
+      "choices": ["育つ、育てる", "登る", "保つ", "死ぬ"],
+      "answer": "育つ、育てる",
+      "source_id": 178
+    },
+    {
+      "id": "v006",
+      "question": "climb",
+      "choices": ["登る", "育つ、育てる", "保つ", "死ぬ"],
+      "answer": "登る",
+      "source_id": 178
+    },
+    {
+      "id": "v007",
+      "question": "look",
+      "choices": ["~に見える", "育つ、育てる", "登る", "死ぬ"],
+      "answer": "~に見える",
+      "source_id": 178
+    },
+    {
+      "id": "v008",
+      "question": "keep",
+      "choices": ["保つ", "育つ、育てる", "登る", "死ぬ"],
+      "answer": "保つ",
+      "source_id": 178
+    },
+    {
+      "id": "v009",
+      "question": "die",
+      "choices": ["死ぬ", "育つ、育てる", "登る", "保つ"],
+      "answer": "死ぬ",
+      "source_id": 178
+    },
+    {
+      "id": "v010",
+      "question": "discover",
+      "choices": ["発見する", "をみがく", "紹介する", "投げる"],
+      "answer": "発見する",
+      "source_id": 178
+    },
+    {
+      "id": "v011",
+      "question": "brush",
+      "choices": ["をみがく", "発見する", "紹介する", "投げる"],
+      "answer": "をみがく",
+      "source_id": 178
+    },
+    {
+      "id": "v012",
+      "question": "introduce",
+      "choices": ["紹介する", "発見する", "をみがく", "投げる"],
+      "answer": "紹介する",
+      "source_id": 178
+    },
+    {
+      "id": "v013",
+      "question": "throw",
+      "choices": ["投げる", "発見する", "をみがく", "紹介する"],
+      "answer": "投げる",
+      "source_id": 178
+    },
+    {
+      "id": "v014",
+      "question": "answer",
+      "choices": ["に答える", "急ぐ", "学ぶ", "貸す"],
+      "answer": "に答える",
+      "source_id": 178
+    },
+    {
+      "id": "v015",
+      "question": "hurry",
+      "choices": ["急ぐ", "に答える", "学ぶ", "貸す"],
+      "answer": "急ぐ",
+      "source_id": 178
+    },
+    {
+      "id": "v016",
+      "question": "learn",
+      "choices": ["学ぶ", "に答える", "急ぐ", "貸す"],
+      "answer": "学ぶ",
+      "source_id": 178
+    },
+    {
+      "id": "v017",
+      "question": "lend",
+      "choices": ["貸す", "に答える", "急ぐ", "学ぶ"],
+      "answer": "貸す",
+      "source_id": 178
+    },
+    {
+      "id": "v018",
+      "question": "rent",
+      "choices": ["借りる(有料)", "借りる(無料)", "訪ねる、質問する", "記録する"],
+      "answer": "借りる(有料)",
+      "source_id": 178
+    },
+    {
+      "id": "v019",
+      "question": "borrow",
+      "choices": ["借りる(無料)", "借りる(有料)", "訪ねる、質問する", "記録する"],
+      "answer": "借りる(無料)",
+      "source_id": 178
+    },
+    {
+      "id": "v020",
+      "question": "ask",
+      "choices": ["訪ねる、質問する", "借りる(有料)", "借りる(無料)", "記録する"],
+      "answer": "訪ねる、質問する",
+      "source_id": 178
+    },
+    {
+      "id": "v021",
+      "question": "record",
+      "choices": ["記録する", "借りる(有料)", "借りる(無料)", "訪ねる、質問する"],
+      "answer": "記録する",
+      "source_id": 178
+    },
+    {
+      "id": "v022",
+      "question": "catch",
+      "choices": ["捕まえる", "卒業する", "加わる", "なくす"],
+      "answer": "捕まえる",
+      "source_id": 178
+    },
+    {
+      "id": "v023",
+      "question": "graduate",
+      "choices": ["卒業する", "捕まえる", "加わる", "なくす"],
+      "answer": "卒業する",
+      "source_id": 178
+    },
+    {
+      "id": "v024",
+      "question": "join",
+      "choices": ["加わる", "捕まえる", "卒業する", "なくす"],
+      "answer": "加わる",
+      "source_id": 178
+    },
+    {
+      "id": "v025",
+      "question": "lose",
+      "choices": ["なくす", "捕まえる", "卒業する", "加わる"],
+      "answer": "なくす",
+      "source_id": 178
+    },
+    {
+      "id": "v026",
+      "question": "feel",
+      "choices": ["感じる", "考える", "飛ぶ", "滞在する"],
+      "answer": "感じる",
+      "source_id": 178
+    },
+    {
+      "id": "v027",
+      "question": "think",
+      "choices": ["考える", "感じる", "飛ぶ", "滞在する"],
+      "answer": "考える",
+      "source_id": 178
+    },
+    {
+      "id": "v028",
+      "question": "fly",
+      "choices": ["飛ぶ", "感じる", "考える", "滞在する"],
+      "answer": "飛ぶ",
+      "source_id": 178
+    },
+    {
+      "id": "v029",
+      "question": "stay",
+      "choices": ["滞在する", "感じる", "考える", "飛ぶ"],
+      "answer": "滞在する",
+      "source_id": 178
+    },
+    {
+      "id": "v030",
+      "question": "visit",
+      "choices": ["訪れる", "動く、引っ越す", "到着する", "送る"],
+      "answer": "訪れる",
+      "source_id": 178
+    },
+    {
+      "id": "v031",
+      "question": "move",
+      "choices": ["動く、引っ越す", "訪れる", "到着する", "送る"],
+      "answer": "動く、引っ越す",
+      "source_id": 178
+    },
+    {
+      "id": "v032",
+      "question": "arrive",
+      "choices": ["到着する", "訪れる", "動く、引っ越す", "送る"],
+      "answer": "到着する",
+      "source_id": 178
+    },
+    {
+      "id": "v033",
+      "question": "send",
+      "choices": ["送る", "訪れる", "動く、引っ越す", "到着する"],
+      "answer": "送る",
+      "source_id": 178
+    },
+    {
+      "id": "v034",
+      "question": "shut",
+      "choices": ["閉める", "送る", "到着する", "動く、引っ越す"],
+      "answer": "閉める",
+      "source_id": 178
+    },
+    {
+      "id": "v035",
+      "question": "short",
+      "choices": ["短い", "美しい", "かわいい", "異なった"],
+      "answer": "短い",
+      "source_id": 174
+    },
+    {
+      "id": "v036",
+      "question": "beautiful",
+      "choices": ["美しい", "短い", "かわいい", "異なった"],
+      "answer": "美しい",
+      "source_id": 174
+    },
+    {
+      "id": "v037",
+      "question": "pretty",
+      "choices": ["かわいい", "短い", "美しい", "異なった"],
+      "answer": "かわいい",
+      "source_id": 174
+    },
+    {
+      "id": "v038",
+      "question": "cute",
+      "choices": ["かわいい", "短い", "美しい", "異なった"],
+      "answer": "かわいい",
+      "source_id": 174
+    },
+    {
+      "id": "v039",
+      "question": "different",
+      "choices": ["異なった", "短い", "美しい", "かわいい"],
+      "answer": "異なった",
+      "source_id": 174
+    },
+    {
+      "id": "v040",
+      "question": "same",
+      "choices": ["同じ", "お金もちの", "貧しい", "空腹の"],
+      "answer": "同じ",
+      "source_id": 174
+    },
+    {
+      "id": "v041",
+      "question": "rich",
+      "choices": ["お金もちの", "同じ", "貧しい", "空腹の"],
+      "answer": "お金もちの",
+      "source_id": 174
+    },
+    {
+      "id": "v042",
+      "question": "poor",
+      "choices": ["貧しい", "同じ", "お金もちの", "空腹の"],
+      "answer": "貧しい",
+      "source_id": 174
+    },
+    {
+      "id": "v043",
+      "question": "hungry",
+      "choices": ["空腹の", "同じ", "お金もちの", "貧しい"],
+      "answer": "空腹の",
+      "source_id": 174
+    },
+    {
+      "id": "v044",
+      "question": "full",
+      "choices": ["いっぱいの", "役立つ", "正しい、右の", "左の"],
+      "answer": "いっぱいの",
+      "source_id": 174
+    },
+    {
+      "id": "v045",
+      "question": "useful",
+      "choices": ["役立つ", "いっぱいの", "正しい、右の", "左の"],
+      "answer": "役立つ",
+      "source_id": 174
+    },
+    {
+      "id": "v046",
+      "question": "right",
+      "choices": ["正しい、右の", "いっぱいの", "役立つ", "左の"],
+      "answer": "正しい、右の",
+      "source_id": 174
+    },
+    {
+      "id": "v047",
+      "question": "left",
+      "choices": ["左の", "いっぱいの", "役立つ", "正しい、右の"],
+      "answer": "左の",
+      "source_id": 174
+    },
+    {
+      "id": "v048",
+      "question": "ready",
+      "choices": ["準備のできた", "一生懸命、大変", "間違った", "注意深い"],
+      "answer": "準備のできた",
+      "source_id": 174
+    },
+    {
+      "id": "v049",
+      "question": "hard",
+      "choices": ["一生懸命、大変", "準備のできた", "間違った", "注意深い"],
+      "answer": "一生懸命、大変",
+      "source_id": 174
+    },
+    {
+      "id": "v050",
+      "question": "wrong",
+      "choices": ["間違った", "準備のできた", "一生懸命、大変", "注意深い"],
+      "answer": "間違った",
+      "source_id": 174
+    },
+    {
+      "id": "v051",
+      "question": "careful",
+      "choices": ["注意深い", "準備のできた", "一生懸命、大変", "間違った"],
+      "answer": "注意深い",
+      "source_id": 174
+    },
+    {
+      "id": "v052",
+      "question": "quiet",
+      "choices": ["静かな", "ほかの", "そのような", "通常の"],
+      "answer": "静かな",
+      "source_id": 174
+    },
+    {
+      "id": "v053",
+      "question": "other",
+      "choices": ["ほかの", "静かな", "そのような", "通常の"],
+      "answer": "ほかの",
+      "source_id": 174
+    },
+    {
+      "id": "v054",
+      "question": "another",
+      "choices": ["ほかの、もう一つの", "そのような", "通常の", "違った"],
+      "answer": "ほかの、もう一つの",
+      "source_id": 174
+    },
+    {
+      "id": "v055",
+      "question": "such",
+      "choices": ["そのような", "ほかの、もう一つの", "通常の", "違った"],
+      "answer": "そのような",
+      "source_id": 174
+    },
+    {
+      "id": "v056",
+      "question": "usual",
+      "choices": ["通常の", "ほかの、もう一つの", "そのような", "違った"],
+      "answer": "通常の",
+      "source_id": 174
+    },
+    {
+      "id": "v057",
+      "question": "loud",
+      "choices": ["(声が)大きい", "過去の", "奇妙な", "中央の"],
+      "answer": "(声が)大きい",
+      "source_id": 174
+    },
+    {
+      "id": "v058",
+      "question": "past",
+      "choices": ["過去の", "(声が)大きい", "奇妙な", "中央の"],
+      "answer": "過去の",
+      "source_id": 174
+    },
+    {
+      "id": "v059",
+      "question": "strange",
+      "choices": ["奇妙な", "(声が)大きい", "過去の", "中央の"],
+      "answer": "奇妙な",
+      "source_id": 174
+    },
+    {
+      "id": "v060",
+      "question": "central",
+      "choices": ["中央の", "(声が)大きい", "過去の", "奇妙な"],
+      "answer": "中央の",
+      "source_id": 174
+    },
+    {
+      "id": "v061",
+      "question": "better",
+      "choices": ["もっと良い", "一番良い", "どちらかの一方の", "中央の"],
+      "answer": "もっと良い",
+      "source_id": 174
+    },
+    {
+      "id": "v062",
+      "question": "best",
+      "choices": ["一番良い", "もっと良い", "どちらかの一方の", "中央の"],
+      "answer": "一番良い",
+      "source_id": 174
+    },
+    {
+      "id": "v063",
+      "question": "either",
+      "choices": ["どちらかの一方の", "もっと良い", "一番良い", "中央の"],
+      "answer": "どちらかの一方の",
+      "source_id": 174
+    },
+    {
+      "id": "v064",
+      "question": "easy",
+      "choices": ["かんたん", "難しい", "忙しい", "無料の、ひまな"],
+      "answer": "かんたん",
+      "source_id": 176
+    },
+    {
+      "id": "v065",
+      "question": "difficult",
+      "choices": ["難しい", "かんたん", "忙しい", "無料の、ひまな"],
+      "answer": "難しい",
+      "source_id": 176
+    },
+    {
+      "id": "v066",
+      "question": "busy",
+      "choices": ["忙しい", "かんたん", "難しい", "無料の、ひまな"],
+      "answer": "忙しい",
+      "source_id": 176
+    },
+    {
+      "id": "v067",
+      "question": "free",
+      "choices": ["無料の、ひまな", "かんたん", "難しい", "忙しい"],
+      "answer": "無料の、ひまな",
+      "source_id": 176
+    },
+    {
+      "id": "v068",
+      "question": "thirsty",
+      "choices": ["のどがかわいた", "人気のある", "有名な", "興味深い"],
+      "answer": "のどがかわいた",
+      "source_id": 176
+    },
+    {
+      "id": "v069",
+      "question": "popular",
+      "choices": ["人気のある", "のどがかわいた", "有名な", "興味深い"],
+      "answer": "人気のある",
+      "source_id": 176
+    },
+    {
+      "id": "v070",
+      "question": "famous",
+      "choices": ["有名な", "のどがかわいた", "人気のある", "興味深い"],
+      "answer": "有名な",
+      "source_id": 176
+    },
+    {
+      "id": "v071",
+      "question": "interesting",
+      "choices": ["興味深い", "のどがかわいた", "人気のある", "有名な"],
+      "answer": "興味深い",
+      "source_id": 176
+    },
+    {
+      "id": "v072",
+      "question": "funny",
+      "choices": ["面白い", "ワクワクする", "怒った", "きれいな"],
+      "answer": "面白い",
+      "source_id": 176
+    },
+    {
+      "id": "v073",
+      "question": "exciting",
+      "choices": ["ワクワクする", "面白い", "怒った", "きれいな"],
+      "answer": "ワクワクする",
+      "source_id": 176
+    },
+    {
+      "id": "v074",
+      "question": "angry",
+      "choices": ["怒った", "面白い", "ワクワクする", "きれいな"],
+      "answer": "怒った",
+      "source_id": 176
+    },
+    {
+      "id": "v075",
+      "question": "clean",
+      "choices": ["きれいな", "面白い", "ワクワクする", "怒った"],
+      "answer": "きれいな",
+      "source_id": 176
+    },
+    {
+      "id": "v076",
+      "question": "dirty",
+      "choices": ["汚い", "慎重に", "奇妙な", "うれしい"],
+      "answer": "汚い",
+      "source_id": 176
+    },
+    {
+      "id": "v077",
+      "question": "glad",
+      "choices": ["うれしい", "汚い", "慎重に", "奇妙な"],
+      "answer": "うれしい",
+      "source_id": 176
+    },
+    {
+      "id": "v078",
+      "question": "delicious",
+      "choices": ["おいしい", "疲れた", "危険な", "大好きな"],
+      "answer": "おいしい",
+      "source_id": 176
+    },
+    {
+      "id": "v079",
+      "question": "tired",
+      "choices": ["疲れた", "おいしい", "危険な", "大好きな"],
+      "answer": "疲れた",
+      "source_id": 176
+    },
+    {
+      "id": "v080",
+      "question": "dangerous",
+      "choices": ["危険な", "おいしい", "疲れた", "大好きな"],
+      "answer": "危険な",
+      "source_id": 176
+    },
+    {
+      "id": "v081",
+      "question": "favorite",
+      "choices": ["大好きな", "おいしい", "疲れた", "危険な"],
+      "answer": "大好きな",
+      "source_id": 176
+    },
+    {
+      "id": "v082",
+      "question": "young",
+      "choices": ["若い", "早い", "速い", "遅い"],
+      "answer": "若い",
+      "source_id": 176
+    },
+    {
+      "id": "v083",
+      "question": "early",
+      "choices": ["早い", "若い", "速い", "遅い"],
+      "answer": "早い",
+      "source_id": 176
+    },
+    {
+      "id": "v084",
+      "question": "fast",
+      "choices": ["速い", "若い", "早い", "遅い"],
+      "answer": "速い",
+      "source_id": 176
+    },
+    {
+      "id": "v085",
+      "question": "late",
+      "choices": ["遅い", "若い", "早い", "速い"],
+      "answer": "遅い",
+      "source_id": 176
+    },
+    {
+      "id": "v086",
+      "question": "strong",
+      "choices": ["強い", "弱い", "親切な", "楽しみ"],
+      "answer": "強い",
+      "source_id": 176
+    },
+    {
+      "id": "v087",
+      "question": "weak",
+      "choices": ["弱い", "強い", "親切な", "楽しみ"],
+      "answer": "弱い",
+      "source_id": 176
+    },
+    {
+      "id": "v088",
+      "question": "kind",
+      "choices": ["親切な", "強い", "弱い", "楽しみ"],
+      "answer": "親切な",
+      "source_id": 176
+    },
+    {
+      "id": "v089",
+      "question": "fun",
+      "choices": ["楽しみ", "強い", "弱い", "親切な"],
+      "answer": "楽しみ",
+      "source_id": 176
+    },
+    {
+      "id": "v090",
+      "question": "boring",
+      "choices": ["退屈な", "病気の", "楽しみ", "親切な"],
+      "answer": "退屈な",
+      "source_id": 176
+    },
+    {
+      "id": "v091",
+      "question": "sick",
+      "choices": ["病気の", "退屈な", "楽しみ", "親切な"],
+      "answer": "病気の",
+      "source_id": 176
+    },
+    {
+      "id": "v092",
+      "question": "near",
+      "choices": ["~の近くに", "離れて", "~の間で", "~なので"],
+      "answer": "~の近くに",
+      "source_id": 180
+    },
+    {
+      "id": "v093",
+      "question": "away",
+      "choices": ["離れて", "~の近くに", "~の間で", "~なので"],
+      "answer": "離れて",
+      "source_id": 180
+    },
+    {
+      "id": "v094",
+      "question": "between",
+      "choices": ["~の間で", "~の近くに", "離れて", "~なので"],
+      "answer": "~の間で",
+      "source_id": 180
+    },
+    {
+      "id": "v095",
+      "question": "because",
+      "choices": ["~なので", "~の近くに", "離れて", "~の間で"],
+      "answer": "~なので",
+      "source_id": 180
+    },
+    {
+      "id": "v096",
+      "question": "behind",
+      "choices": ["~の後ろに", "~の前に", "~のあたり", "~について、約~"],
+      "answer": "~の後ろに",
+      "source_id": 180
+    },
+    {
+      "id": "v097",
+      "question": "front",
+      "choices": ["~の前に", "~の後ろに", "~のあたり", "~について、約~"],
+      "answer": "~の前に",
+      "source_id": 180
+    },
+    {
+      "id": "v098",
+      "question": "around",
+      "choices": ["~のあたり", "~の後ろに", "~の前に", "~について、約~"],
+      "answer": "~のあたり",
+      "source_id": 180
+    },
+    {
+      "id": "v099",
+      "question": "about",
+      "choices": ["~について、約~", "~の後ろに", "~の前に", "~のあたり"],
+      "answer": "~について、約~",
+      "source_id": 180
+    },
+    {
+      "id": "v100",
+      "question": "above",
+      "choices": ["~の上に", "~として", "~も", "すぐ"],
+      "answer": "~の上に",
+      "source_id": 180
+    },
+    {
+      "id": "v101",
+      "question": "as",
+      "choices": ["~として", "~の上に", "~も", "すぐ"],
+      "answer": "~として",
+      "source_id": 180
+    },
+    {
+      "id": "v102",
+      "question": "also",
+      "choices": ["~も", "~の上に", "~として", "すぐ"],
+      "answer": "~も",
+      "source_id": 180
+    },
+    {
+      "id": "v103",
+      "question": "soon",
+      "choices": ["すぐ", "~の上に", "~として", "~も"],
+      "answer": "すぐ",
+      "source_id": 180
+    },
+    {
+      "id": "v104",
+      "question": "together",
+      "choices": ["いっしょに", "時々", "よく", "普段、普通"],
+      "answer": "いっしょに",
+      "source_id": 180
+    },
+    {
+      "id": "v105",
+      "question": "sometimes",
+      "choices": ["時々", "いっしょに", "よく", "普段、普通"],
+      "answer": "時々",
+      "source_id": 180
+    },
+    {
+      "id": "v106",
+      "question": "often",
+      "choices": ["よく", "いっしょに", "時々", "普段、普通"],
+      "answer": "よく",
+      "source_id": 180
+    },
+    {
+      "id": "v107",
+      "question": "usually",
+      "choices": ["普段、普通", "いっしょに", "時々", "よく"],
+      "answer": "普段、普通",
+      "source_id": 180
+    },
+    {
+      "id": "v108",
+      "question": "always",
+      "choices": ["いつも", "まだ", "~すぎる", "他に、他の"],
+      "answer": "いつも",
+      "source_id": 180
+    },
+    {
+      "id": "v109",
+      "question": "still",
+      "choices": ["まだ", "いつも", "~すぎる", "他に、他の"],
+      "answer": "まだ",
+      "source_id": 180
+    },
+    {
+      "id": "v110",
+      "question": "too",
+      "choices": ["~すぎる", "いつも", "まだ", "他に、他の"],
+      "answer": "~すぎる",
+      "source_id": 180
+    },
+    {
+      "id": "v111",
+      "question": "else",
+      "choices": ["他に、他の", "いつも", "まだ", "~すぎる"],
+      "answer": "他に、他の",
+      "source_id": 180
+    },
+    {
+      "id": "v112",
+      "question": "just",
+      "choices": ["ただ〜だけ、ちょうど", "もしかすると", "~する間", "~の時"],
+      "answer": "ただ〜だけ、ちょうど",
+      "source_id": 180
+    },
+    {
+      "id": "v113",
+      "question": "maybe",
+      "choices": ["もしかすると", "ただ〜だけ、ちょうど", "~する間", "~の時"],
+      "answer": "もしかすると",
+      "source_id": 180
+    },
+    {
+      "id": "v114",
+      "question": "when",
+      "choices": ["~の時", "ただ〜だけ、ちょうど", "もしかすると", "~する間"],
+      "answer": "~の時",
+      "source_id": 180
+    }
+  ]
+}
