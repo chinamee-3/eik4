@@ -2,207 +2,451 @@
   "fill_in_the_blank": [
     {
       "id": "f001",
-      [cite_start]"question": "Mary doesn't get along (    ) the other classmates. [cite: 5]",
+      "question": "Mary doesn't get along (    ) the other classmates.",
       "choices": ["on", "as", "with", "into"],
       "answer": "with",
-      "source_id": 5
+      "source_id": 31
     },
     {
       "id": "f002",
-      "question": "How long did you swim today? (    ) [cite_start]two hours. [cite: 5]",
-      "choices": ["Since", "For", "Through", "During"],
-      "answer": "For",
-      "source_id": 5
+      "question": "Kate and I met (    ) the way to school.",
+      "choices": ["on", "in", "by", "to"],
+      "answer": "on",
+      "source_id": 31
     },
     {
       "id": "f003",
-      [cite_start]"question": "Mike (    ) 200 meters in P.E. class yesterday. [cite: 5]",
-      "choices": ["run", "ran", "running", "to run"],
-      "answer": "ran",
-      "source_id": 5
+      "question": "How long did you swim today? (    ) two hours.",
+      "choices": ["Since", "For", "Through", "During"],
+      "answer": "For",
+      "source_id": 31
     },
     {
       "id": "f004",
-      [cite_start]"question": "Are you (    ) for lunch? [cite: 7]",
-      "choices": ["easy", "early", "dirty", "ready"],
-      "answer": "ready",
-      "source_id": 7
+      "question": "Come here (    ) once and help me, Tom.",
+      "choices": ["at", "in", "with", "on"],
+      "answer": "at",
+      "source_id": 31
     },
     {
       "id": "f005",
-      [cite_start]"question": "My sister's phone is (    ) than mine. [cite: 7]",
-      "choices": ["to new", "new", "newer", "newest"],
-      "answer": "newer",
-      "source_id": 7
+      "question": "I'm tired. Let's take a (    ).",
+      "choices": ["rest", "walk", "chance", "look"],
+      "answer": "rest",
+      "source_id": 31
     },
     {
       "id": "f006",
-      [cite_start]"question": "I'm going to the store (    ) buy some groceries. [cite: 10]",
-      "choices": ["to", "for", "but", "and"],
-      "answer": "to",
-      "source_id": 10
+      "question": "Mike (    ) 200 meters in P.E. class yesterday",
+      "choices": ["run", "ran", "running", "to run"],
+      "answer": "ran",
+      "source_id": 31
     },
     {
       "id": "f007",
-      [cite_start]"question": "This is the (    ) pizza I've ever tasted. [cite: 10]",
-      "choices": ["better", "most", "best", "well"],
-      "answer": "best",
-      "source_id": 10
+      "question": "(    ) I get some water?",
+      "choices": ["Have", "Could", "Am", "Would"],
+      "answer": "Could",
+      "source_id": 31
     },
     {
       "id": "f008",
-      [cite_start]"question": "She (    ) learning to play the piano when she was seven years old. [cite: 13]",
-      "choices": ["got", "brought", "kept", "began"],
-      "answer": "began",
-      "source_id": 13
+      "question": "My aunt became a cook because she likes (    ).",
+      "choices": ["cook", "cooks", "cooking", "cooked"],
+      "answer": "cooking",
+      "source_id": 31
     },
     {
       "id": "f009",
-      [cite_start]"question": "While hiking in the mountains, we (    ) a beautiful waterfall. [cite: 13]",
-      "choices": ["discovered", "prepared", "swam", "said"],
-      "answer": "discovered",
-      "source_id": 13
+      "question": "What kind (    ) cake do you like?",
+      "choices": ["as", "at", "to", "of"],
+      "answer": "of",
+      "source_id": 31
     },
     {
       "id": "f010",
-      [cite_start]"question": "It's important to be (    ) and tell the truth, even if it's difficult. [cite: 16]",
+      "question": "Meg made lunch for (    ).",
+      "choices": ["him", "his", "he", "they"],
+      "answer": "him",
+      "source_id": 31
+    },
+    {
+      "id": "f011",
+      "question": "Bill looks (    ) a popular actor.",
+      "choices": ["about", "on", "to", "like"],
+      "answer": "like",
+      "source_id": 31
+    },
+    {
+      "id": "f012",
+      "question": "I'm going (    ) her at nine tomorrow morning.",
+      "choices": ["visiting", "visited", "visits", "to visit"],
+      "answer": "to visit",
+      "source_id": 31
+    },
+    {
+      "id": "f013",
+      "question": "More (    ) more people go to Japan recently.",
+      "choices": ["and", "or", "but", "to"],
+      "answer": "and",
+      "source_id": 33
+    },
+    {
+      "id": "f014",
+      "question": "Are you (    ) for lunch?",
+      "choices": ["easy", "early", "dirty", "ready"],
+      "answer": "ready",
+      "source_id": 33
+    },
+    {
+      "id": "f015",
+      "question": "We need to talk with each (    ).",
+      "choices": ["about", "another", "much", "other"],
+      "answer": "other",
+      "source_id": 33
+    },
+    {
+      "id": "f016",
+      "question": "My room has a lot of pictures (    ) the wall.",
+      "choices": ["in", "on", "over", "behind"],
+      "answer": "on",
+      "source_id": 33
+    },
+    {
+      "id": "f017",
+      "question": "A: Would you like (    ) piece of bread, Sam? B: No, thanks. I'm full.",
+      "choices": ["another", "same", "few", "all"],
+      "answer": "another",
+      "source_id": 33
+    },
+    {
+      "id": "f018",
+      "question": "I'm waiting for her to (    ) her homework.",
+      "choices": ["decide", "finish", "save", "invite"],
+      "answer": "finish",
+      "source_id": 33
+    },
+    {
+      "id": "f019",
+      "question": "(    ) we go to Meg's party tonight? -Yes, let's.",
+      "choices": ["Would", "Shall", "May", "Must"],
+      "answer": "Shall",
+      "source_id": 33
+    },
+    {
+      "id": "f020",
+      "question": "Be (    ). It's still too hot to eat.",
+      "choices": ["dangerous", "delicious", "careful", "beautiful"],
+      "answer": "careful",
+      "source_id": 33
+    },
+    {
+      "id": "f021",
+      "question": "If you bring me some tomatoes, I'll make soup with (    ).",
+      "choices": ["him", "it", "her", "them"],
+      "answer": "them",
+      "source_id": 33
+    },
+    {
+      "id": "f022",
+      "question": "My sister's phone is (    ) than mine.",
+      "choices": ["to new", "new", "newer", "newest"],
+      "answer": "newer",
+      "source_id": 33
+    },
+    {
+      "id": "f023",
+      "question": "Do you have any (    ) about the field trip tomorrow?",
+      "choices": ["temperature", "information", "adventure", "example"],
+      "answer": "information",
+      "source_id": 33
+    },
+    {
+      "id": "f024",
+      "question": "I'm looking forward to (    ) you sometime.",
+      "choices": ["seeing", "see", "saw", "seen"],
+      "answer": "seeing",
+      "source_id": 33
+    },
+    {
+      "id": "f025",
+      "question": "I'm going to the store (    ) buy some groceries.",
+      "choices": ["to", "for", "but", "and"],
+      "answer": "to",
+      "source_id": 36
+    },
+    {
+      "id": "f026",
+      "question": "(    ) umbrella did you borrow? Was it Tom's?",
+      "choices": ["Where", "Who", "Which", "Whose"],
+      "answer": "Whose",
+      "source_id": 36
+    },
+    {
+      "id": "f027",
+      "question": "I'm going to (    ) my friends to my birthday party.",
+      "choices": ["invent", "invite", "increase", "include"],
+      "answer": "invite",
+      "source_id": 36
+    },
+    {
+      "id": "f028",
+      "question": "I have (    ) my homework before dinner.",
+      "choices": ["finish", "to finish", "finishing", "finished"],
+      "answer": "to finish",
+      "source_id": 36
+    },
+    {
+      "id": "f029",
+      "question": "Don't forget to (    ) the lights when you leave the room.",
+      "choices": ["take off", "show off", "get off", "turn off"],
+      "answer": "turn off",
+      "source_id": 36
+    },
+    {
+      "id": "f030",
+      "question": "My cat likes to sleep (    ) the sun.",
+      "choices": ["for", "about", "in", "on"],
+      "answer": "in",
+      "source_id": 36
+    },
+    {
+      "id": "f031",
+      "question": "Math is (    ) for me than English.",
+      "choices": ["harder", "harding", "to hard", "hard"],
+      "answer": "harder",
+      "source_id": 36
+    },
+    {
+      "id": "f032",
+      "question": "She checked the (    ) of the water before taking a bath.",
+      "choices": ["dangerous", "temperature", "environment", "texture"],
+      "answer": "temperature",
+      "source_id": 36
+    },
+    {
+      "id": "f033",
+      "question": "This is the (    ) pizza I've ever tasted.",
+      "choices": ["better", "most", "best", "well"],
+      "answer": "best",
+      "source_id": 36
+    },
+    {
+      "id": "f034",
+      "question": "I was absent (    ) school yesterday because I was not feeling well.",
+      "choices": ["from", "for", "by", "on"],
+      "answer": "from",
+      "source_id": 36
+    },
+    {
+      "id": "f035",
+      "question": "Can I have the (    ) sandwich as my friend is having?",
+      "choices": ["different", "thirsty", "hungry", "same"],
+      "answer": "same",
+      "source_id": 36
+    },
+    {
+      "id": "f036",
+      "question": "The blue car is faster (    ) the red one.",
+      "choices": ["because", "but", "than", "as"],
+      "answer": "than",
+      "source_id": 36
+    },
+    {
+      "id": "f037",
+      "question": "Don't forget to bring your (    ) to the ski trip.",
+      "choices": ["gloves", "dish", "teeth", "umbrella"],
+      "answer": "gloves",
+      "source_id": 39
+    },
+    {
+      "id": "f038",
+      "question": "She (    ) learning to play the piano when she was seven years old.",
+      "choices": ["got", "brought", "kept", "began"],
+      "answer": "began",
+      "source_id": 39
+    },
+    {
+      "id": "f039",
+      "question": "It's raining outside, so let's stay (    ) the house.",
+      "choices": ["inside", "free", "away", "behind"],
+      "answer": "inside",
+      "source_id": 39
+    },
+    {
+      "id": "f040",
+      "question": "I can meet you (    ) on Saturday or Sunday.",
+      "choices": ["neither", "either", "both", "just"],
+      "answer": "either",
+      "source_id": 39
+    },
+    {
+      "id": "f041",
+      "question": "Children (    ) quickly, and their clothes become too small.",
+      "choices": ["borrow", "graduate", "forget", "grow"],
+      "answer": "grow",
+      "source_id": 39
+    },
+    {
+      "id": "f042",
+      "question": "Learning how to cook is a (    ) skill for life.",
+      "choices": ["popular", "right", "useful", "easy"],
+      "answer": "useful",
+      "source_id": 39
+    },
+    {
+      "id": "f043",
+      "question": "He (    ) a map to show us the way to the park.",
+      "choices": ["broke", "stole", "drew", "caught"],
+      "answer": "drew",
+      "source_id": 39
+    },
+    {
+      "id": "f044",
+      "question": "He had to (    ) his running pace because he got tired.",
+      "choices": ["slow down", "give up", "go back", "wait for"],
+      "answer": "slow down",
+      "source_id": 39
+    },
+    {
+      "id": "f045",
+      "question": "We need to leave early to make sure we don't (    ) the train.",
+      "choices": ["sleep", "miss", "take", "bring"],
+      "answer": "miss",
+      "source_id": 39
+    },
+    {
+      "id": "f046",
+      "question": "The blue car is (    ) than the red one.",
+      "choices": ["fast", "fastest", "to fast", "faster"],
+      "answer": "faster",
+      "source_id": 39
+    },
+    {
+      "id": "f047",
+      "question": "While hiking in the mountains, we (    ) a beautiful waterfall.",
+      "choices": ["discovered", "prepared", "swam", "said"],
+      "answer": "discovered",
+      "source_id": 39
+    },
+    {
+      "id": "f048",
+      "question": "My brother is getting (    ) at playing the piano with practice.",
+      "choices": ["colder", "older", "better", "faster"],
+      "answer": "better",
+      "source_id": 39
+    },
+    {
+      "id": "f049",
+      "question": "I will (    ) the office at 5:30 PM today.",
+      "choices": ["grow", "climb", "keep", "leave"],
+      "answer": "leave",
+      "source_id": 42
+    },
+    {
+      "id": "f050",
+      "question": "I have to wake up early tomorrow because I have an (    ) test.",
+      "choices": ["important", "quiet", "strong", "thirsty"],
+      "answer": "important",
+      "source_id": 42
+    },
+    {
+      "id": "f051",
+      "question": "There are a lot (    ) interesting museums in this city.",
+      "choices": ["in", "with", "for", "of"],
+      "answer": "of",
+      "source_id": 42
+    },
+    {
+      "id": "f052",
+      "question": "I thought I lost my keys, but they were (    ) in my bag.",
+      "choices": ["too", "yet", "still", "else"],
+      "answer": "still",
+      "source_id": 42
+    },
+    {
+      "id": "f053",
+      "question": "I have (    ) money to buy a new bicycle.",
+      "choices": ["same", "enough", "good", "still"],
+      "answer": "enough",
+      "source_id": 42
+    },
+    {
+      "id": "f054",
+      "question": "I enjoy outdoor activities, (    ) example, hiking, biking, and camping.",
+      "choices": ["with", "for", "on", "to"],
+      "answer": "for",
+      "source_id": 42
+    },
+    {
+      "id": "f055",
+      "question": "Tim is the (    ) member of our soccer team, but he's very polite.",
+      "choices": ["too young", "much younger", "youngest", "as young"],
+      "answer": "youngest",
+      "source_id": 42
+    },
+    {
+      "id": "f056",
+      "question": "It's important to be (    ) and tell the truth, even if it's difficult.",
       "choices": ["angry", "useful", "honest", "different"],
       "answer": "honest",
-      "source_id": 16
-    }
-  ],
-  "scramble": [
-    {
-      "id": "s001",
-      [cite_start]"question": "水を飲むことは体に良いです。(is / water / good / drinking / for) your health. [cite: 30, 31]",
-      "choices": [
-        "Drinking water is good for your health.",
-        "Is drinking water good for your health.",
-        "Good for your health is drinking water.",
-        "Water drinking is for your good health."
-      ],
-      "answer": "Drinking water is good for your health.",
-      "source_id": 30
+      "source_id": 42
     },
     {
-      "id": "s002",
-      [cite_start]"question": "窓を開けましょうか？ (I / open / the / shall / window)? [cite: 30]",
-      "choices": [
-        "Shall I open the window?",
-        "I shall open the window?",
-        "Open I shall the window?",
-        "The window shall I open?"
-      ],
-      "answer": "Shall I open the window?",
-      "source_id": 30
+      "id": "f057",
+      "question": "I (    ) finish my homework before going to bed.",
+      "choices": ["must", "have", "as", "shall"],
+      "answer": "must",
+      "source_id": 42
     },
     {
-      "id": "s003",
-      [cite_start]"question": "あなたのコンピューター使ってもよろしいでしょうか？ (your / may / I / use / computer), please? [cite: 34, 35]",
-      "choices": [
-        "May I use your computer, please?",
-        "I may use your computer, please?",
-        "Please may I use your computer?",
-        "May use I your computer, please?"
-      ],
-      "answer": "May I use your computer, please?",
-      "source_id": 34
+      "id": "f058",
+      "question": "Be (    ) in the movie theater. The film is about to start.",
+      "choices": ["careful", "angry", "poor", "quiet"],
+      "answer": "quiet",
+      "source_id": 42
     },
     {
-      "id": "s004",
-      [cite_start]"question": "何か飲みものはいかがでしょうか？ (something / drink / to / like / you / would )? [cite: 34]",
-      "choices": [
-        "Would you like something to drink?",
-        "You would like something to drink?",
-        "Like you would something to drink?",
-        "Would you like to something drink?"
-      ],
-      "answer": "Would you like something to drink?",
-      "source_id": 34
+      "id": "f059",
+      "question": "My family is planning a (    ) to the beach next month.",
+      "choices": ["vacation", "examination", "language", "headache"],
+      "answer": "vacation",
+      "source_id": 42
     },
     {
-      "id": "s005",
-      [cite_start]"question": "病気のため今日は授業を休む予定だ。(class / from / I'll / absent / be) today due to illness. [cite: 38, 39]",
-      "choices": [
-        "I'll be absent from class today due to illness.",
-        "Absent from class I'll be today due to illness.",
-        "I'll be from class absent today due to illness.",
-        "Today I'll be absent from class due to illness."
-      ],
-      "answer": "I'll be absent from class today due to illness.",
-      "source_id": 38
-    }
-  ],
-  "vocabulary": [
-    {
-      "id": "v001",
-      [cite_start]"question": "cry [cite: 1]",
-      "choices": ["泣く", "呼ぶ", "去る", "壊す"],
-      "answer": "泣く",
-      "source_id": 1
+      "id": "f060",
+      "question": "The (    ) with the famous actor was very interesting.",
+      "choices": ["telephone", "interview", "information", "temperature"],
+      "answer": "interview",
+      "source_id": 42
     },
     {
-      "id": "v002",
-      [cite_start]"question": "climb [cite: 1]",
-      "choices": ["登る", "保つ", "死ぬ", "発見する"],
-      "answer": "登る",
-      "source_id": 1
+      "id": "f061",
+      "question": "She has (    ) to the dentist because her tooth hurts.",
+      "choices": ["going", "to go", "went", "goes"],
+      "answer": "to go",
+      "source_id": 45
     },
     {
-      "id": "v003",
-      [cite_start]"question": "borrow [cite: 1]",
-      "choices": ["借りる(無料)", "貸す", "借りる(有料)", "訪ねる"],
-      "answer": "借りる(無料)",
-      "source_id": 1
+      "id": "f062",
+      "question": "I don't want to be (    ) for the bus, so I always leave home early.",
+      "choices": ["sure", "late", "careful", "free"],
+      "answer": "late",
+      "source_id": 45
     },
     {
-      "id": "v004",
-      [cite_start]"question": "beautiful [cite: 3]",
-      "choices": ["美しい", "短い", "かわいい", "異なった"],
-      "answer": "美しい",
-      "source_id": 3
+      "id": "f063",
+      "question": "She borrowed my umbrella because she forgot (    ) at home.",
+      "choices": ["her", "she", "his", "hers"],
+      "answer": "hers",
+      "source_id": 45
     },
     {
-      "id": "v005",
-      [cite_start]"question": "hungry [cite: 3]",
-      "choices": ["空腹の", "お金もちの", "貧しい", "いっぱいの"],
-      "answer": "空腹の",
-      "source_id": 3
+      "id": "f064",
+      "question": "She travels to the city (    ) bus to visit her grandparents.",
+      "choices": ["by", "with", "on", "for"],
+      "answer": "by",
+      "source_id": 45
     },
     {
-      "id": "v006",
-      [cite_start]"question": "difficult [cite: 59]",
-      "choices": ["難しい", "かんたん", "忙しい", "ひまな"],
-      "answer": "難しい",
-      "source_id": 59
-    },
-    {
-      "id": "v007",
-      [cite_start]"question": "famous [cite: 59]",
-      "choices": ["有名な", "人気のある", "興味深い", "面白い"],
-      "answer": "有名な",
-      "source_id": 59
-    },
-    {
-      "id": "v008",
-      [cite_start]"question": "near [cite: 27]",
-      "choices": ["〜の近くに", "離れて", "〜の間で", "〜の後ろに"],
-      "answer": "〜の近くに",
-      "source_id": 27
-    },
-    {
-      "id": "v009",
-      [cite_start]"question": "usually [cite: 27]",
-      "choices": ["普段、普通", "時々", "よく", "いつも"],
-      "answer": "普段、普通",
-      "source_id": 27
-    },
-    {
-      "id": "v010",
-      [cite_start]"question": "while [cite: 27]",
-      "choices": ["〜する間", "〜の時", "〜なので", "〜も"],
-      "answer": "〜する間",
-      "source_id": 27
-    }
-  ]
-}
+      "id": "f065",
