@@ -1,0 +1,208 @@
+{
+  "fill_in_the_blank": [
+    {
+      "id": "f001",
+      [cite_start]"question": "Mary doesn't get along (    ) the other classmates. [cite: 5]",
+      "choices": ["on", "as", "with", "into"],
+      "answer": "with",
+      "source_id": 5
+    },
+    {
+      "id": "f002",
+      "question": "How long did you swim today? (    ) [cite_start]two hours. [cite: 5]",
+      "choices": ["Since", "For", "Through", "During"],
+      "answer": "For",
+      "source_id": 5
+    },
+    {
+      "id": "f003",
+      [cite_start]"question": "Mike (    ) 200 meters in P.E. class yesterday. [cite: 5]",
+      "choices": ["run", "ran", "running", "to run"],
+      "answer": "ran",
+      "source_id": 5
+    },
+    {
+      "id": "f004",
+      [cite_start]"question": "Are you (    ) for lunch? [cite: 7]",
+      "choices": ["easy", "early", "dirty", "ready"],
+      "answer": "ready",
+      "source_id": 7
+    },
+    {
+      "id": "f005",
+      [cite_start]"question": "My sister's phone is (    ) than mine. [cite: 7]",
+      "choices": ["to new", "new", "newer", "newest"],
+      "answer": "newer",
+      "source_id": 7
+    },
+    {
+      "id": "f006",
+      [cite_start]"question": "I'm going to the store (    ) buy some groceries. [cite: 10]",
+      "choices": ["to", "for", "but", "and"],
+      "answer": "to",
+      "source_id": 10
+    },
+    {
+      "id": "f007",
+      [cite_start]"question": "This is the (    ) pizza I've ever tasted. [cite: 10]",
+      "choices": ["better", "most", "best", "well"],
+      "answer": "best",
+      "source_id": 10
+    },
+    {
+      "id": "f008",
+      [cite_start]"question": "She (    ) learning to play the piano when she was seven years old. [cite: 13]",
+      "choices": ["got", "brought", "kept", "began"],
+      "answer": "began",
+      "source_id": 13
+    },
+    {
+      "id": "f009",
+      [cite_start]"question": "While hiking in the mountains, we (    ) a beautiful waterfall. [cite: 13]",
+      "choices": ["discovered", "prepared", "swam", "said"],
+      "answer": "discovered",
+      "source_id": 13
+    },
+    {
+      "id": "f010",
+      [cite_start]"question": "It's important to be (    ) and tell the truth, even if it's difficult. [cite: 16]",
+      "choices": ["angry", "useful", "honest", "different"],
+      "answer": "honest",
+      "source_id": 16
+    }
+  ],
+  "scramble": [
+    {
+      "id": "s001",
+      [cite_start]"question": "水を飲むことは体に良いです。(is / water / good / drinking / for) your health. [cite: 30, 31]",
+      "choices": [
+        "Drinking water is good for your health.",
+        "Is drinking water good for your health.",
+        "Good for your health is drinking water.",
+        "Water drinking is for your good health."
+      ],
+      "answer": "Drinking water is good for your health.",
+      "source_id": 30
+    },
+    {
+      "id": "s002",
+      [cite_start]"question": "窓を開けましょうか？ (I / open / the / shall / window)? [cite: 30]",
+      "choices": [
+        "Shall I open the window?",
+        "I shall open the window?",
+        "Open I shall the window?",
+        "The window shall I open?"
+      ],
+      "answer": "Shall I open the window?",
+      "source_id": 30
+    },
+    {
+      "id": "s003",
+      [cite_start]"question": "あなたのコンピューター使ってもよろしいでしょうか？ (your / may / I / use / computer), please? [cite: 34, 35]",
+      "choices": [
+        "May I use your computer, please?",
+        "I may use your computer, please?",
+        "Please may I use your computer?",
+        "May use I your computer, please?"
+      ],
+      "answer": "May I use your computer, please?",
+      "source_id": 34
+    },
+    {
+      "id": "s004",
+      [cite_start]"question": "何か飲みものはいかがでしょうか？ (something / drink / to / like / you / would )? [cite: 34]",
+      "choices": [
+        "Would you like something to drink?",
+        "You would like something to drink?",
+        "Like you would something to drink?",
+        "Would you like to something drink?"
+      ],
+      "answer": "Would you like something to drink?",
+      "source_id": 34
+    },
+    {
+      "id": "s005",
+      [cite_start]"question": "病気のため今日は授業を休む予定だ。(class / from / I'll / absent / be) today due to illness. [cite: 38, 39]",
+      "choices": [
+        "I'll be absent from class today due to illness.",
+        "Absent from class I'll be today due to illness.",
+        "I'll be from class absent today due to illness.",
+        "Today I'll be absent from class due to illness."
+      ],
+      "answer": "I'll be absent from class today due to illness.",
+      "source_id": 38
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v001",
+      [cite_start]"question": "cry [cite: 1]",
+      "choices": ["泣く", "呼ぶ", "去る", "壊す"],
+      "answer": "泣く",
+      "source_id": 1
+    },
+    {
+      "id": "v002",
+      [cite_start]"question": "climb [cite: 1]",
+      "choices": ["登る", "保つ", "死ぬ", "発見する"],
+      "answer": "登る",
+      "source_id": 1
+    },
+    {
+      "id": "v003",
+      [cite_start]"question": "borrow [cite: 1]",
+      "choices": ["借りる(無料)", "貸す", "借りる(有料)", "訪ねる"],
+      "answer": "借りる(無料)",
+      "source_id": 1
+    },
+    {
+      "id": "v004",
+      [cite_start]"question": "beautiful [cite: 3]",
+      "choices": ["美しい", "短い", "かわいい", "異なった"],
+      "answer": "美しい",
+      "source_id": 3
+    },
+    {
+      "id": "v005",
+      [cite_start]"question": "hungry [cite: 3]",
+      "choices": ["空腹の", "お金もちの", "貧しい", "いっぱいの"],
+      "answer": "空腹の",
+      "source_id": 3
+    },
+    {
+      "id": "v006",
+      [cite_start]"question": "difficult [cite: 59]",
+      "choices": ["難しい", "かんたん", "忙しい", "ひまな"],
+      "answer": "難しい",
+      "source_id": 59
+    },
+    {
+      "id": "v007",
+      [cite_start]"question": "famous [cite: 59]",
+      "choices": ["有名な", "人気のある", "興味深い", "面白い"],
+      "answer": "有名な",
+      "source_id": 59
+    },
+    {
+      "id": "v008",
+      [cite_start]"question": "near [cite: 27]",
+      "choices": ["〜の近くに", "離れて", "〜の間で", "〜の後ろに"],
+      "answer": "〜の近くに",
+      "source_id": 27
+    },
+    {
+      "id": "v009",
+      [cite_start]"question": "usually [cite: 27]",
+      "choices": ["普段、普通", "時々", "よく", "いつも"],
+      "answer": "普段、普通",
+      "source_id": 27
+    },
+    {
+      "id": "v010",
+      [cite_start]"question": "while [cite: 27]",
+      "choices": ["〜する間", "〜の時", "〜なので", "〜も"],
+      "answer": "〜する間",
+      "source_id": 27
+    }
+  ]
+}
